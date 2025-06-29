@@ -13,7 +13,7 @@ function Change(){
     <div className='h-screen flex justify-center items-center'>
         <div className='flex justify-center items-center border-red-300 rounded-3xl border-4 w-96 h-4/5'>
            <img src='../assets/download.png' className='w-80 mb-44 rounded-3xl shadow-md shadow-rose-700 hover:scale-110 transition ease-in-out delay-200'></img>
-           <h1 className='absolute mt-10 font-bold text-xl'>Hi Uravshi</h1>
+           <h1 className='absolute mt-10 font-bold text-xl'>Hi Tasmiya</h1>
            <h1 className='absolute mt-56 font-bold text-3xl bg-gradient-to-r from-violet-800 via-rose-600 to-pink-500 text-clip bg-clip-text text-transparent '>You are so pretty </h1>
            <h1 className='absolute mt-80 font-bold text-2xl'>Will you be a my girlfriend?😁</h1>
            <div className='absolute translate-y-56'>
